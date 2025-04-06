@@ -1,6 +1,6 @@
 echo "Conteúdo inicial do arquivo de texto"
 Roll Back
 a
-B 
+B  
 c 
 d 
