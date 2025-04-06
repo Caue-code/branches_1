@@ -8,3 +8,8 @@ minhas linguagens favoritas são:
 JavaScritp
 Swift &
 Go
+Meus IDEs são:
+VS Code 
+Goland
+Curso
+
