@@ -4,3 +4,7 @@ a
 B  
 c 
 d 
+minhas linguagens favoritas são:
+JavaScritp
+Swift &
+Go
